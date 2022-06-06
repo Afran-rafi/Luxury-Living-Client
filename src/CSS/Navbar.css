@@ -1,0 +1,36 @@
+.css:hover{
+    text-decoration: underline #251D58 4px;
+    background: none !important;
+}
+
+.css:focus{
+    text-decoration: underline #251D58 4px;
+    background: none !important;
+}
+
+.bg-login{
+    background-color: #251D58;
+}
+
+.bg-nav{
+    background-color: #F6F6F6;
+}
+
+
+@media screen and (max-width: 600px) {
+    .ml-20{
+        margin-left:0px ;
+        background-color: white;
+        color: black;
+    }
+
+    .ml-20:hover{
+        text-decoration: underline #251D58 4px;
+        background: none !important;
+    }
+    
+    .ml-20:focus{
+        text-decoration: underline #251D58 4px;
+        background: none !important;
+    }
+}
