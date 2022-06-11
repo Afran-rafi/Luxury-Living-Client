@@ -16,6 +16,9 @@
     background-color: #F6F6F6;
 }
 
+.blue{
+    color: #251D58;
+}
 
 @media screen and (max-width: 600px) {
     .ml-20{
