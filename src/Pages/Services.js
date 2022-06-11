@@ -9,7 +9,7 @@ const Services = () => {
         return <Loading></Loading>
     }
     return (
-        <div className='lg:mx-16 mx-8'>
+        <div className='lg:mx-16 mx-8 mb-10'>
             <div>
                 <h1 className='text-sm blue font-bold text-center'>-- Services --</h1>
                 <p className='text-xl text-info font-bold text-center'>We're an agency tailored to all <br />
@@ -22,6 +22,9 @@ const Services = () => {
                         service={service}
                     ></Service>)
                 }
+            </div>
+            <div className='flex justify-center'>
+                <button className='bg-login text-white py-2 px-4 rounded shadow-blue-900'>Explore More</button>
             </div>
         </div>
     );

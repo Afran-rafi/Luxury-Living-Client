@@ -20,6 +20,10 @@
     color: #251D58;
 }
 
+.wi{
+    width: 675px;
+}
+
 @media screen and (max-width: 600px) {
     .ml-20{
         margin-left:0px ;

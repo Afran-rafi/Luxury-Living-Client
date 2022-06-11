@@ -1,17 +1,20 @@
 [
     {
       "image": "",
-      "name": "Villa on Washington Avenue",
-      "Address": "Dhaka, Bangladesh"
+      "name": "Office Interior Design",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat, expedita!",
+      "price": 299
     },
     {
       "image": "",
-      "name": "Luxury villa in Rego Park",
-      "Address": "Rajshahi, Bangladesh"
+      "name": "Showroom Design",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat, expedita!",
+      "price": 399
     },
     {
       "image": "",
-      "name": "Gorgeous house",
-      "Address": "Sylhet, Bangladesh"
+      "name": "Residential/ Home",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat, expedita!",
+      "price": 299
     }
   ]
