@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
     return (
-        <div className='mb-10 mt-16 mx-16 bg-nav lg:p-8'>
+        <div className='mb-10 mt-16 lg:mx-16 bg-nav p-8 rounded-md'>
             <div>
                 <h1 className='text-sm blue font-bold text-center'>-- Contact Us --</h1>
                 <p className='text-xl text-info font-bold text-center'>Let us handle your <br />
@@ -19,6 +19,9 @@ const Contact = () => {
                 </div>
                 <div className='flex justify-center mt-8 '>
                     <textarea class="textarea textarea-primary wi h-36" placeholder="Your Message"></textarea>
+                </div>
+                <div className='mt-10 flex justify-center items-center'>
+                    <button className='bg-login text-white py-2 px-4 rounded'>Send Message <i class="fa-brands fa-telegram"></i></button>
                 </div>
             </div>
         </div>
