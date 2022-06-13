@@ -14,7 +14,6 @@ function App() {
           <Route path='/' element={<HomePage></HomePage>}></Route>
           <Route path='/login' element={<Login></Login>}></Route>
           <Route path='/signUp' element={<SignUp></SignUp>}></Route>
-
         </Routes>
         <Footer></Footer>
       </Navbar>
